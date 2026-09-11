@@ -1,0 +1,6 @@
+{
+  "name": "🧠 BRAIN CELL SCANNER",
+  "description": "A serious-looking clinical-grade cognitive imaging system that does completely fake scanning for comedy.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
